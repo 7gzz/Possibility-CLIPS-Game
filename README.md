@@ -45,7 +45,7 @@ So, are you ready to explore all of these endings? Each playthrough reveals more
 
 1. **Clone the Repository**  
    - To play, simply clone the repository to your local machine.  
-   - ```git clone https://github.com/yourusername/possibility.git```
+   - ```git clone https://github.com/7gzz/Possibility-CLIPS-Game.git```
 
 2. **Set Up CLIPS**  
    - If you don’t have CLIPS installed yet, you can download it from [here](http://www.clipsrules.net/). Follow the instructions for your operating system 🖥️.
